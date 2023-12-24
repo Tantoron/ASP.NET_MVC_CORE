@@ -37,3 +37,5 @@ G:\ASP.NET_MVC_CORE_buoi01\ASP.NET_MVC_CORE\ASP.NET_MVC_CORE\obj\Debug\net5.0\re
 G:\ASP.NET_MVC_CORE_buoi01\ASP.NET_MVC_CORE\ASP.NET_MVC_CORE\obj\Debug\net5.0\ASP.NET_MVC_CORE.pdb
 G:\ASP.NET_MVC_CORE_buoi01\ASP.NET_MVC_CORE\ASP.NET_MVC_CORE\obj\Debug\net5.0\ASP.NET_MVC_CORE.genruntimeconfig.cache
 G:\ASP.NET_MVC_CORE_buoi01\ASP.NET_MVC_CORE\ASP.NET_MVC_CORE\obj\Debug\net5.0\ASP.NET_MVC_CORE.csproj.CopyComplete
+G:\ASP.NET_MVC_CORE_buoi01\ASP.NET_MVC_CORE\ASP.NET_MVC_CORE\obj\Debug\net5.0\ASP.NET_MVC_CORE.csproj.AssemblyReference.cache
+G:\ASP.NET_MVC_CORE_buoi01\ASP.NET_MVC_CORE\ASP.NET_MVC_CORE\obj\Debug\net5.0\Razor\Views\Home\Diem.cshtml.g.cs

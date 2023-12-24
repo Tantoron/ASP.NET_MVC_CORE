@@ -17,7 +17,11 @@ namespace ASP.NET_MVC_CORE.Controllers
         {
             _logger = logger;
         }
-
+        public IActionResult Diem() 
+        {
+            return View("~/Views/Home/Diem.cshtml");
+            //return View("~/Views/Home/Index.cshtml");
+        }
         public IActionResult Index()
         {
             return View();
