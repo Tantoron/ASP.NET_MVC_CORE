@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div class="container">
+        <div class="row col-12 Head">
+            @Html.Partial("_Head")
+        </div>
+        <div class="row col-12 Body">
+            <div class="left col-3">
+                @Html.Partial("_Menu")
+            </div>
+            <div class="right col-9 Content">
+                @RenderBody()
+            </div>
+        </div>
+        <div class="row col-12 Foot">
+            @Html.Partial("_Foot")
+        </div>
+    </div>
+</body>
+</html>

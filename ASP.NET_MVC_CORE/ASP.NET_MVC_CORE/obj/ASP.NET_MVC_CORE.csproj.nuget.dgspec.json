@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\ASP.NET_MVC_CORE_buoi01\\ASP.NET_MVC_CORE\\ASP.NET_MVC_CORE\\ASP.NET_MVC_CORE.csproj": {}
+    "G:\\Project_02\\ASP.NET_MVC_CORE\\ASP.NET_MVC_CORE\\ASP.NET_MVC_CORE.csproj": {}
   },
   "projects": {
-    "G:\\ASP.NET_MVC_CORE_buoi01\\ASP.NET_MVC_CORE\\ASP.NET_MVC_CORE\\ASP.NET_MVC_CORE.csproj": {
+    "G:\\Project_02\\ASP.NET_MVC_CORE\\ASP.NET_MVC_CORE\\ASP.NET_MVC_CORE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\ASP.NET_MVC_CORE_buoi01\\ASP.NET_MVC_CORE\\ASP.NET_MVC_CORE\\ASP.NET_MVC_CORE.csproj",
+        "projectUniqueName": "G:\\Project_02\\ASP.NET_MVC_CORE\\ASP.NET_MVC_CORE\\ASP.NET_MVC_CORE.csproj",
         "projectName": "ASP.NET_MVC_CORE",
-        "projectPath": "G:\\ASP.NET_MVC_CORE_buoi01\\ASP.NET_MVC_CORE\\ASP.NET_MVC_CORE\\ASP.NET_MVC_CORE.csproj",
+        "projectPath": "G:\\Project_02\\ASP.NET_MVC_CORE\\ASP.NET_MVC_CORE\\ASP.NET_MVC_CORE.csproj",
         "packagesPath": "C:\\Users\\SinhVien\\.nuget\\packages\\",
-        "outputPath": "G:\\ASP.NET_MVC_CORE_buoi01\\ASP.NET_MVC_CORE\\ASP.NET_MVC_CORE\\obj\\",
+        "outputPath": "G:\\Project_02\\ASP.NET_MVC_CORE\\ASP.NET_MVC_CORE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SinhVien\\AppData\\Roaming\\NuGet\\NuGet.Config",
